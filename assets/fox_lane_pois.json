@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "name": "us_cities",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox Lane Hill",
+        "state": "CP94",
+        "POP_2010": 40888.0,
+        "ELEV_IN_FT": 1611.0,
+        "STATE": "ND",
+        "UTC": "134526.00",
+        "Latitude": 40.605647833333336,
+        "Longitude": -4.0631363333333335,
+        "Orthometric Heigth": "892.6",
+        "Geoid Separation": "50.2",
+        "computer_timestamp": 1725975926.06605,
+        "computer_time_local": "10/09/2024, 15:45:26.066050",
+        "computer_time_utc": "10/09/2024, 13:45:26.066050",
+        "ref": "CP94 Pico Fox Lane Hill",
+        "pop_max": 1745000,
+        "region": "West"        
+    },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.0631363333333335, 40.605647833333336]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":"02", 
+      "properties": {
+          "name": "Fox Lane Hill",
+          "state": "CP94",
+          "POP_2010": 40888.0,
+          "ELEV_IN_FT": 1611.0,
+          "STATE": "ND",
+          "UTC": "134730.00",
+          "Latitude": 40.6056785,
+          "Longitude": -4.063270166666666,
+          "Orthometric Heigth": "881.9",
+          "Geoid Separation": "50.2",
+          "computer_timestamp": 1725976050.061356,
+          "computer_time_local": "10/09/2024, 15:47:30.061356",
+          "computer_time_utc": "10/09/2024, 13:47:30.061356",
+          "ref": "CP94 Base c\u00e1mara 1",
+          "pop_max": 4745000,
+          "region": "West"        
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-4.063270166666666, 40.6056785]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":"04", 
+      "properties": {
+          "name": "Fox Lane Hill",
+          "state": "CP94",
+          "POP_2010": 40888.0,
+          "ELEV_IN_FT": 1611.0,
+          "STATE": "ND",
+          "UTC": "135459.00",
+          "Latitude": 40.605838,
+          "Longitude": -4.063039833333334,
+          "Orthometric Heigth": "889.2",
+          "Geoid Separation": "50.2",
+          "computer_timestamp": 1725976499.064743,
+          "computer_time_local": "10/09/2024, 15:54:59.064743",
+          "computer_time_utc": "10/09/2024, 13:54:59.064743",
+          "ref": "CP94 Acces Point 1",
+          "pop_max": 8745000,
+          "region": "West"        
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-4.063039833333334, 40.605838]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":"10", 
+      "properties": {
+          "name": "Fox Lane Hill",
+          "state": "CP94",
+          "POP_2010": 40888.0,
+          "ELEV_IN_FT": 1611.0,
+          "STATE": "ND",
+          "UTC": "133827.00",
+          "Latitude": 40.60551616666667,
+          "Longitude": -4.063137333333334,
+          "Orthometric Heigth": "889.6",
+          "Geoid Separation": "50.2",
+          "computer_timestamp": 1725975507.071158,
+          "computer_time_local": "10/09/2024, 15:38:27.071158",
+          "computer_time_utc": "10/09/2024, 13:38:27.071158",
+          "ref": "CP94 Punto 1",
+          "UTC_2": "133942.00",
+          "Latitude_2": 40.605663,
+          "Longitude_2": -4.0634483333333336,
+          "Orthometric Heigth_2": "890.0",
+          "UTC_3": "134137.00",
+          "Latitude_3": 40.6060075,
+          "Longitude_3": -4.063046666666667,
+          "Orthometric Heigth_3": "893.1",
+          "UTC_4": "134321.00",
+          "Latitude_4": 40.605895,
+          "Longitude_4": -4.062823,
+          "Orthometric Heigth_4": "901.8",
+          "pop_max": 1745000,
+          "region": "West"        
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-4.063137333333334, 40.60551616666667]
+      }
+    }
+  ]
+}

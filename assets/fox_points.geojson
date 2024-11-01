@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "fox_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "type": "Point", "ref": "pico", "UTC": 134526, "Latitude": 40.605647833333336, "Longitude": -4.0631363333333326, "Orthometric Heigth": 892.6, "Geoid Separation": 50.2, "computer_timestamp": 1725975926.0660501, "computer_time_local": "10/09/2024, 15:45:26.066050", "computer_time_utc": "10/09/2024, 13:45:26.066050", "name": "CP94 Pico Fox Lane Hill", "rssi": 23 }, "geometry": { "type": "Point", "coordinates": [ -4.063136333333333, 40.605647833333336 ] } },
+{ "type": "Feature", "properties": { "type": "Point", "ref": "base camara", "UTC": 134730, "Latitude": 40.6056785, "Longitude": -4.0632701666666664, "Orthometric Heigth": 881.9, "Geoid Separation": 50.2, "computer_timestamp": 1725976050.0613561, "computer_time_local": "10/09/2024, 15:47:30.061356", "computer_time_utc": "10/09/2024, 13:47:30.061356", "name": "CP94 Base camara 1", "rssi": 86 }, "geometry": { "type": "Point", "coordinates": [ -4.063270166666666, 40.6056785 ] } },
+{ "type": "Feature", "properties": { "type": "Point", "ref": "top camara", "UTC": 134935, "Latitude": 40.60567016666667, "Longitude": -4.0632726666666663, "Orthometric Heigth": 892.9, "Geoid Separation": 50.2, "computer_timestamp": 1725976175.062638, "computer_time_local": "10/09/2024, 15:49:35.062638", "computer_time_utc": "10/09/2024, 13:49:35.062638", "name": "CP94 Top camara 1", "rssi": 48 }, "geometry": { "type": "Point", "coordinates": [ -4.063272666666666, 40.60567016666667 ] } },
+{ "type": "Feature", "properties": { "type": "Point", "ref": "access point", "UTC": 135459, "Latitude": 40.605838, "Longitude": -4.0630398333333337, "Orthometric Heigth": 889.2, "Geoid Separation": 50.2, "computer_timestamp": 1725976499.064743, "computer_time_local": "10/09/2024, 15:54:59.064743", "computer_time_utc": "10/09/2024, 13:54:59.064743", "name": "CP94 Acces Point 1", "rssi": 18 }, "geometry": { "type": "Point", "coordinates": [ -4.063039833333334, 40.605838 ] } }
+]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "01",
+      "properties": { "name": "Fox Lane Parcela", "density": 94.65 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-4.063137333333334, 40.60551616666667],
+            [-4.0634483333333336, 40.605663],
+            [-4.063046666666667,40.6060075],
+            [-4.062823, 40.605895],
+            [-4.063137333333334, 40.60551616666667]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02",
+      "properties": { "name": "Fox Lane Casa", "density": 94.65 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-4.063086666666667, 40.605846],
+            [-4.063128, 40.60588416666667],
+            [-4.063028666666667, 40.60596],
+            [-4.062977333333333, 40.605932333333335],
+            [-4.063086666666667, 40.605846]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03",
+      "properties": { "name": "Fox Lane Hill", "density": 94.65 },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.0631363333333335, 40.605647833333336]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04",
+      "properties": { "name": "Camara 1", "density": 94.65 },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.063272666666666, 40.60567016666667]
+      }
+    }  ]
+}

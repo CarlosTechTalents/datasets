@@ -1,0 +1,234 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id":"01", 
+            "properties": {
+                "name": "Fox Lane Hill",
+                "state": "CP94",
+                "POP_2010": 40888.0,
+                "ELEV_IN_FT": 1611.0,
+                "STATE": "ND",
+                "UTC": "134526.00",
+                "Latitude": 40.605647833333336,
+                "Longitude": -4.0631363333333335,
+                "Orthometric Heigth": "892.6",
+                "Geoid Separation": "50.2",
+                "computer_timestamp": 1725975926.06605,
+                "computer_time_local": "10/09/2024, 15:45:26.066050",
+                "computer_time_utc": "10/09/2024, 13:45:26.066050",
+                "ref": "CP94 Pico Fox Lane Hill"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-4.0631363333333335, 40.605647833333336]
+            }
+        },
+        {
+            "type": "Feature",
+            "id":"02", 
+            "properties": {
+                "name": "Fox Lane Hill",
+                "state": "CP94",
+                "POP_2010": 40888.0,
+                "ELEV_IN_FT": 1611.0,
+                "STATE": "ND",
+                "UTC": "134730.00",
+                "Latitude": 40.6056785,
+                "Longitude": -4.063270166666666,
+                "Orthometric Heigth": "881.9",
+                "Geoid Separation": "50.2",
+                "computer_timestamp": 1725976050.061356,
+                "computer_time_local": "10/09/2024, 15:47:30.061356",
+                "computer_time_utc": "10/09/2024, 13:47:30.061356",
+                "ref": "CP94 Base camara 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-4.063270166666666, 40.6056785]
+            }
+        },
+        {
+            "type": "Feature",
+            "id":"03", 
+            "properties": {
+                "name": "Fox Lane Hill",
+                "state": "CP94",
+                "POP_2010": 40888.0,
+                "ELEV_IN_FT": 1611.0,
+                "STATE": "ND",
+                "UTC": "134935.00",
+                "Latitude": 40.60567016666667,
+                "Longitude": -4.063272666666666,
+                "Orthometric Heigth": "892.9",
+                "Geoid Separation": "50.2",
+                "computer_timestamp": 1725976175.062638,
+                "computer_time_local": "10/09/2024, 15:49:35.062638",
+                "computer_time_utc": "10/09/2024, 13:49:35.062638",
+                "ref": "CP94 Top camara 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-4.063272666666666, 40.60567016666667]
+            }
+        },
+        {
+            "type": "Feature",
+            "id":"04", 
+            "properties": {
+                "name": "Fox Lane Hill",
+                "state": "CP94",
+                "POP_2010": 40888.0,
+                "ELEV_IN_FT": 1611.0,
+                "STATE": "ND",
+                "UTC": "135459.00",
+                "Latitude": 40.605838,
+                "Longitude": -4.063039833333334,
+                "Orthometric Heigth": "889.2",
+                "Geoid Separation": "50.2",
+                "computer_timestamp": 1725976499.064743,
+                "computer_time_local": "10/09/2024, 15:54:59.064743",
+                "computer_time_utc": "10/09/2024, 13:54:59.064743",
+                "ref": "CP94 Acces Point 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-4.063039833333334, 40.605838]
+            }
+        },
+        {
+            "type": "Feature",
+            "id":"10", 
+            "properties": {
+                "name": "Fox Lane Hill",
+                "state": "CP94",
+                "POP_2010": 40888.0,
+                "ELEV_IN_FT": 1611.0,
+                "STATE": "ND",
+                "UTC": "133827.00",
+                "Latitude": 40.60551616666667,
+                "Longitude": -4.063137333333334,
+                "Orthometric Heigth": "889.6",
+                "Geoid Separation": "50.2",
+                "computer_timestamp": 1725975507.071158,
+                "computer_time_local": "10/09/2024, 15:38:27.071158",
+                "computer_time_utc": "10/09/2024, 13:38:27.071158",
+                "ref": "CP94 Punto 1",
+                "UTC_2": "133942.00",
+                "Latitude_2": 40.605663,
+                "Longitude_2": -4.0634483333333336,
+                "Orthometric Heigth_2": "890.0",
+                "UTC_3": "134137.00",
+                "Latitude_3": 40.6060075,
+                "Longitude_3": -4.063046666666667,
+                "Orthometric Heigth_3": "893.1",
+                "UTC_4": "134321.00",
+                "Latitude_4": 40.605895,
+                "Longitude_4": -4.062823,
+                "Orthometric Heigth_4": "901.8"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-4.063137333333334, 40.60551616666667],
+                        [-4.0634483333333336, 40.605663],
+                        [-4.063046666666667,40.6060075],
+                        [-4.062823, 40.605895],
+                        [-4.063137333333334, 40.60551616666667]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id":"11", 
+            "properties": {
+                "name": "Fox Lane Hill",
+                "state": "CP94",
+                "POP_2010": 40888.0,
+                "ELEV_IN_FT": 1611.0,
+                "STATE": "ND",
+                "UTC": "135142.00",
+                "Latitude": 40.605883166666665,
+                "Longitude": -4.063083333333333,
+                "Orthometric Heigth": "892.3",
+                "Geoid Separation": "50.2",
+                "computer_timestamp": 1725976302.061059,
+                "computer_time_local": "10/09/2024, 15:51:42.061059",
+                "computer_time_utc": "10/09/2024, 13:51:42.061059",
+                "ref": "CP94 Casa Sotano 1",
+                "UTC_2": "135214.00",
+                "Latitude_2": 40.605865333333334,
+                "Longitude_2": -4.063113166666667,
+                "Orthometric Heigth_2": "883.3",
+                "UTC_3": "135258.00",
+                "Latitude_3": 40.60590883333333,
+                "Longitude_3": -4.063026666666667,
+                "Orthometric Heigth_3": "890.9",
+                "UTC_4": "135332.00",
+                "Latitude_4": 40.60591683333333,
+                "Longitude_4": -4.063010666666667,
+                "Orthometric Heigth_4": "888.3",                                    
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-4.063083333333333, 40.605883166666665],
+                        [-4.063113166666667, 40.605865333333334],
+                        [-4.063026666666667, 40.60590883333333],
+                        [-4.063010666666667, 40.60591683333333],
+                        [-4.063083333333333, 40.605883166666665]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id":"12", 
+            "properties": {
+                "name": "Fox Lane Hill",
+                "state": "CP94",
+                "POP_2010": 40888.0,
+                "ELEV_IN_FT": 1611.0,
+                "STATE": "ND",
+                "UTC": "135608.00",
+                "Latitude": 40.605846,
+                "Longitude": -4.063086666666667,
+                "Orthometric Heigth": "887.6",
+                "Geoid Separation": "50.2",
+                "computer_timestamp": 1725976568.065849,
+                "computer_time_local": "10/09/2024, 15:56:08.065849",
+                "computer_time_utc": "10/09/2024, 13:56:08.065849",
+                "ref": "CP94 Casa Bajo 1",
+                "UTC_2": "135830.00",
+                "Latitude_2": 40.60588416666667,
+                "Longitude_2": -4.063128,
+                "Orthometric Heigth_2": "888.9",
+                "UTC_3": "135924.00",
+                "Latitude_3": 40.60596,
+                "Longitude_3": -4.063028666666667,
+                "Orthometric Heigth_3": "889.7",
+                "UTC_4": "140150.00",
+                "Latitude_4": 40.605932333333335,
+                "Longitude_4": -4.062977333333333,
+                "Orthometric Heigth_4": "889.5"                                    
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-4.063086666666667, 40.605846],
+                        [-4.063128, 40.60588416666667],
+                        [-4.063028666666667, 40.60596],
+                        [-4.062977333333333, 40.605932333333335],
+                        [-4.063086666666667, 40.605846]
+                    ]
+                ]
+            }
+        }
+    ]
+  
+}
